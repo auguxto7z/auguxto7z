@@ -1,5 +1,10 @@
 # 💫 Sobre Mim:
-Olá! Meu nome é José Augusto. Sou estudante de programação e estou focado em aprender desenvolvimento Back-end e automação com Python. Gosto de criar projetos que envolvem lógica, eficiência e resolvem problemas do dia a dia.<br><br>Atualmente, estudo Python, banco de dados e automação de tarefas, com o objetivo de me tornar um programador Back-end.<br>Em breve, também pretendo estudar HTML, CSS e JavaScript, para ampliar meus conhecimentos e entender melhor o desenvolvimento web.<br><br>Sou uma pessoa dedicada e curiosa, que acredita que a tecnologia pode transformar ideias simples em grandes resultados. 🚀<br>
+Olá! Meu nome é José Augusto.
+
+Atualmente estudo Python com foco em lógica de programação.
+Estou no início da minha jornada na área de programação e sigo aprendendo todos os dias.
+
+No futuro, pretendo estudar front-end (HTML, CSS e JavaScript) para ampliar meus conhecimentos. 🚀<br>
 
 
 ## 🌐 Socials:
